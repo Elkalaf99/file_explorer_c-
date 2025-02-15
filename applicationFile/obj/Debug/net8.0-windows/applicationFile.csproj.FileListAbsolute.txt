@@ -1,0 +1,32 @@
+C:\Users\mahmo\source\repos\applicationFile\applicationFile\bin\Debug\net8.0-windows\applicationFile.exe
+C:\Users\mahmo\source\repos\applicationFile\applicationFile\bin\Debug\net8.0-windows\applicationFile.deps.json
+C:\Users\mahmo\source\repos\applicationFile\applicationFile\bin\Debug\net8.0-windows\applicationFile.runtimeconfig.json
+C:\Users\mahmo\source\repos\applicationFile\applicationFile\bin\Debug\net8.0-windows\applicationFile.dll
+C:\Users\mahmo\source\repos\applicationFile\applicationFile\bin\Debug\net8.0-windows\applicationFile.pdb
+C:\Users\mahmo\source\repos\applicationFile\applicationFile\obj\Debug\net8.0-windows\applicationFile.Form1.resources
+C:\Users\mahmo\source\repos\applicationFile\applicationFile\obj\Debug\net8.0-windows\applicationFile.csproj.GenerateResource.cache
+C:\Users\mahmo\source\repos\applicationFile\applicationFile\obj\Debug\net8.0-windows\applicationFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmo\source\repos\applicationFile\applicationFile\obj\Debug\net8.0-windows\applicationFile.AssemblyInfoInputs.cache
+C:\Users\mahmo\source\repos\applicationFile\applicationFile\obj\Debug\net8.0-windows\applicationFile.AssemblyInfo.cs
+C:\Users\mahmo\source\repos\applicationFile\applicationFile\obj\Debug\net8.0-windows\applicationFile.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\source\repos\applicationFile\applicationFile\obj\Debug\net8.0-windows\applicationFile.dll
+C:\Users\mahmo\source\repos\applicationFile\applicationFile\obj\Debug\net8.0-windows\refint\applicationFile.dll
+C:\Users\mahmo\source\repos\applicationFile\applicationFile\obj\Debug\net8.0-windows\applicationFile.pdb
+C:\Users\mahmo\source\repos\applicationFile\applicationFile\obj\Debug\net8.0-windows\applicationFile.genruntimeconfig.cache
+C:\Users\mahmo\source\repos\applicationFile\applicationFile\obj\Debug\net8.0-windows\ref\applicationFile.dll
+F:\ITI 9 MONTH\C#\applicationFile\applicationFile\bin\Debug\net8.0-windows\applicationFile.exe
+F:\ITI 9 MONTH\C#\applicationFile\applicationFile\bin\Debug\net8.0-windows\applicationFile.deps.json
+F:\ITI 9 MONTH\C#\applicationFile\applicationFile\bin\Debug\net8.0-windows\applicationFile.runtimeconfig.json
+F:\ITI 9 MONTH\C#\applicationFile\applicationFile\bin\Debug\net8.0-windows\applicationFile.dll
+F:\ITI 9 MONTH\C#\applicationFile\applicationFile\bin\Debug\net8.0-windows\applicationFile.pdb
+F:\ITI 9 MONTH\C#\applicationFile\applicationFile\obj\Debug\net8.0-windows\applicationFile.Form1.resources
+F:\ITI 9 MONTH\C#\applicationFile\applicationFile\obj\Debug\net8.0-windows\applicationFile.csproj.GenerateResource.cache
+F:\ITI 9 MONTH\C#\applicationFile\applicationFile\obj\Debug\net8.0-windows\applicationFile.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI 9 MONTH\C#\applicationFile\applicationFile\obj\Debug\net8.0-windows\applicationFile.AssemblyInfoInputs.cache
+F:\ITI 9 MONTH\C#\applicationFile\applicationFile\obj\Debug\net8.0-windows\applicationFile.AssemblyInfo.cs
+F:\ITI 9 MONTH\C#\applicationFile\applicationFile\obj\Debug\net8.0-windows\applicationFile.csproj.CoreCompileInputs.cache
+F:\ITI 9 MONTH\C#\applicationFile\applicationFile\obj\Debug\net8.0-windows\applicationFile.dll
+F:\ITI 9 MONTH\C#\applicationFile\applicationFile\obj\Debug\net8.0-windows\refint\applicationFile.dll
+F:\ITI 9 MONTH\C#\applicationFile\applicationFile\obj\Debug\net8.0-windows\applicationFile.pdb
+F:\ITI 9 MONTH\C#\applicationFile\applicationFile\obj\Debug\net8.0-windows\applicationFile.genruntimeconfig.cache
+F:\ITI 9 MONTH\C#\applicationFile\applicationFile\obj\Debug\net8.0-windows\ref\applicationFile.dll
